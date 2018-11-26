@@ -1,0 +1,31 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Title, author and document numbers}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Authors and Contributors}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Special author lists}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Metadata commands}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{The atlasdoc class}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Dependencies and atlaspackage}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Cover pages}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{The ATLAS preprint style}{}% 9
+\BOOKMARK [1][-]{section.5}{CERN preprint and arXiv}{}% 10
+\BOOKMARK [1][-]{section.6}{ATLAS notes}{}% 11
+\BOOKMARK [1][-]{section.7}{Auxiliary material}{}% 12
+\BOOKMARK [1][-]{section.8}{Symbols in atlasphysics.sty}{}% 13
+\BOOKMARK [1][-]{section.9}{atlaslatex directories and Git or SVN}{}% 14
+\BOOKMARK [1][-]{section.10}{Installation of atlaslatex in texmf tree}{}% 15
+\BOOKMARK [1][-]{section.11}{Platforms and LaTeX versions}{}% 16
+\BOOKMARK [1][-]{section.12}{Miscellaneous LaTeX tips}{}% 17
+\BOOKMARK [2][-]{subsection.12.1}{Line numbers}{section.12}% 18
+\BOOKMARK [2][-]{subsection.12.2}{Definitions}{section.12}% 19
+\BOOKMARK [2][-]{subsection.12.3}{Figures}{section.12}% 20
+\BOOKMARK [2][-]{subsection.12.4}{Subfigures}{section.12}% 21
+\BOOKMARK [2][-]{subsection.12.5}{Positions of figures and tables}{section.12}% 22
+\BOOKMARK [2][-]{subsection.12.6}{pT or ET \205 that is the question}{section.12}% 23
+\BOOKMARK [1][-]{section.13}{Remarks on units and symbols}{}% 24
+\BOOKMARK [2][-]{subsection.13.1}{Useful packages}{section.13}% 25
+\BOOKMARK [1][-]{section.14}{From atlasnote to atlasdoc}{}% 26
+\BOOKMARK [1][-]{appendix.A}{Journal templates}{}% 27
+\BOOKMARK [1][-]{appendix.B}{History}{}% 28
+\BOOKMARK [2][-]{subsection.B.1}{Changes in atlaslatex-04-00-00}{appendix.B}% 29
+\BOOKMARK [2][-]{subsection.B.2}{Changes in atlaslatex-02-00-00}{appendix.B}% 30
+\BOOKMARK [2][-]{subsection.B.3}{Changes in atlascover-01-00-00}{appendix.B}% 31

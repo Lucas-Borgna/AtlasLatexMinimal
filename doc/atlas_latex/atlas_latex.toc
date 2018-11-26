@@ -1,0 +1,34 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {UKenglish}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Title, author and document numbers}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Authors and Contributors}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Special author lists}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Metadata commands}{6}{subsection.2.3}
+\contentsline {section}{\numberline {3}The \texttt {atlasdoc} class}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Dependencies and \texttt {atlaspackage}\xspace }{9}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Cover pages}{11}{subsection.3.2}
+\contentsline {section}{\numberline {4}The ATLAS preprint style}{12}{section.4}
+\contentsline {section}{\numberline {5}CERN preprint and arXiv}{13}{section.5}
+\contentsline {section}{\numberline {6}ATLAS notes}{14}{section.6}
+\contentsline {section}{\numberline {7}Auxiliary material}{14}{section.7}
+\contentsline {section}{\numberline {8}Symbols in \texttt {atlasphysics.sty}}{14}{section.8}
+\contentsline {section}{\numberline {9}\texttt {atlaslatex} directories and Git or SVN}{14}{section.9}
+\contentsline {section}{\numberline {10}Installation of \texttt {atlaslatex}\xspace in \texttt {texmf}\xspace tree}{15}{section.10}
+\contentsline {section}{\numberline {11}Platforms and \LaTeX \ versions}{16}{section.11}
+\contentsline {section}{\numberline {12}Miscellaneous \LaTeX {} tips}{16}{section.12}
+\contentsline {subsection}{\numberline {12.1}Line numbers}{16}{subsection.12.1}
+\contentsline {subsection}{\numberline {12.2}Definitions}{17}{subsection.12.2}
+\contentsline {subsection}{\numberline {12.3}Figures}{17}{subsection.12.3}
+\contentsline {subsection}{\numberline {12.4}Subfigures}{18}{subsection.12.4}
+\contentsline {subsection}{\numberline {12.5}Positions of figures and tables}{19}{subsection.12.5}
+\contentsline {subsection}{\numberline {12.6}\ensuremath {p_{\text {T}}}\xspace or \ensuremath {E_{\text {T}}}\xspace \ -- that is the question}{19}{subsection.12.6}
+\contentsline {section}{\numberline {13}Remarks on units and symbols}{19}{section.13}
+\contentsline {subsection}{\numberline {13.1}Useful packages}{20}{subsection.13.1}
+\contentsline {section}{\numberline {14}From \texttt {atlasnote} to \texttt {atlasdoc}}{21}{section.14}
+\contentsline {section}{\numberline {A}Journal templates}{22}{appendix.A}
+\contentsline {section}{\numberline {B}History}{22}{appendix.B}
+\contentsline {subsection}{\numberline {B.1}Changes in \texttt {atlaslatex-04-00-00}}{23}{subsection.B.1}
+\contentsline {subsection}{\numberline {B.2}Changes in \texttt {atlaslatex-02-00-00}}{23}{subsection.B.2}
+\contentsline {subsection}{\numberline {B.3}Changes in \texttt {atlascover-01-00-00}}{23}{subsection.B.3}

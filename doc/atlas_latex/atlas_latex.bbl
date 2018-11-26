@@ -1,0 +1,97 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{none/global/}
+    \entry{pubcom}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{title}{Publication \LaTeX{} Templates}
+      \verb{url}
+      \verb https://twiki.cern.ch/twiki/bin/view/AtlasProtected/PubComLaTeX
+      \endverb
+    \endentry
+    \entry{pubcom-git}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{title}{ATLAS \LaTeX{} style files and templates in {Git}}
+      \verb{url}
+      \verb https://gitlab.cern.ch/atlas-physics-office/atlaslatex
+      \endverb
+    \endentry
+    \entry{atlas-physics}{online}{}
+      \name{author}{1}{}{%
+        {{hash=af81454f2601d643bd83dfc37ef8c9c6}{%
+           family={Brock},
+           family_i={B\bibinitperiod},
+           given={Ian},
+           given_i={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{af81454f2601d643bd83dfc37ef8c9c6}
+      \strng{fullhash}{af81454f2601d643bd83dfc37ef8c9c6}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Symbols defined in \texttt{atlasphysics.sty}}
+      \verb{url}
+      \verb https://twiki.cern.ch/twiki/pub/AtlasProtected/PubComLaTeX/atlas_physics.pdf
+      \endverb
+    \endentry
+    \entry{latex-faq}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{title}{{PubCom \LaTeX{} FAQ}}
+      \verb{url}
+      \verb https://twiki.cern.ch/twiki/bin/view/AtlasProtected/PubComLaTeXFAQ
+      \endverb
+    \endentry
+    \entry{atlas-physicsoffice}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{title}{{ATLAS} Physics and Committees Office}
+      \verb{url}
+      \verb https://twiki.cern.ch/twiki/bin/view/AtlasProtected/PhysicsOffice
+      \endverb
+    \endentry
+    \entry{atlas-paper}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c5df2025c86dfd4e63be181b1f2094ae}{%
+           family={{ATLAS Publications Committee}},
+           family_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5df2025c86dfd4e63be181b1f2094ae}
+      \strng{fullhash}{c5df2025c86dfd4e63be181b1f2094ae}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{General guidelines for {ATLAS} papers}
+      \verb{url}
+      \verb https://twiki.cern.ch/twiki/pub/AtlasProtected/PubComLaTeX/atlas_paper.pdf
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
